@@ -137,16 +137,6 @@ protheus-orders-frontend/
 └── exemplo_pedidos_2.csv  # Outro exemplo
 ```
 
-## 🤝 Contribuindo
-
-Para reportar issues ou sugerir melhorias:
-1. Abra uma [Issue](https://github.com/vitimrcosta/protheus-orders-frontend/issues)
-2. Fork o projeto
-3. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-4. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-5. Push para a branch (`git push origin feature/AmazingFeature`)
-6. Abra um Pull Request
-
 ## 📄 Licença
 
 Este projeto está disponível para uso livre.

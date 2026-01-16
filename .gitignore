@@ -24,3 +24,6 @@ yarn-error.log*
 
 # Cache
 .cache/
+
+# Documentação interna
+DOCUMENTACAO_COMPLETA.md
